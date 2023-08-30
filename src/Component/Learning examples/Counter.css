@@ -1,0 +1,35 @@
+button {
+  font-size: 16px;
+  width: 100px;
+  margin: 10px;
+  color: white;
+  padding: 15px;
+  border-radius: 30px;
+  border-color: black;
+  border-width: 5px;
+}
+
+.counterButton {
+  background-color: #00a5ab;
+}
+
+.count {
+  font-size: 50px;
+  padding: 20px;
+}
+
+* {
+  margin: 50px;
+  font-size: 10px;
+  font-family: "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell";
+}
+
+.totalCount {
+  color: #00a5ab;
+  font-size: 30px;
+}
+
+.resetButton {
+  margin-left: 37%;
+  background-color: #8292d0;
+}
